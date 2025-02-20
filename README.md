@@ -1,0 +1,1 @@
+Developed a Hotel Management System using Python and MySQL to manage customer details, room bookings, and billing efficiently. The system allows hotel staff to add customers, check room availability, book rooms, and view booking records. Optimized SQL queries and implemented error handling for smooth database interactions.
